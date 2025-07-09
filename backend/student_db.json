@@ -1,0 +1,3627 @@
+{
+  "u0001": {
+    "name": "Zeynep Kaya",
+    "agno": 2.85,
+    "semester": 3,
+    "major": "İşletme",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ali Veli"
+    },
+    "credits_completed": 90,
+    "credits_required": 240
+  },
+  "u0002": {
+    "name": "Emir Arslan",
+    "agno": 3.25,
+    "semester": 4,
+    "major": "Bilgisayar Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["cift_anadal", "staj"],
+    "advisor": {
+      "anadal": "Prof. Dr. Elif Tekin",
+      "cap": "Dr. Mehmet Kaya"
+    },
+    "credits_completed": 120,
+    "credits_required": 240
+  },
+  "u0003": {
+    "name": "Defne Yılmaz",
+    "agno": 3.60,
+    "semester": 6,
+    "major": "Mimarlık",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Dr. Zeynep Can",
+      "cap": "Prof. Dr. Hasan Yıldız"
+    },
+    "credits_completed": 185,
+    "credits_required": 240
+  },
+  "u0004": {
+    "name": "Can Demir",
+    "agno": 2.10,
+    "semester": 2,
+    "major": "Maliye",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Doç. Dr. Ayşe Akın"
+    },
+    "credits_completed": 40,
+    "credits_required": 240
+  },
+  "u0005": {
+    "name": "Selin Polat",
+    "agno": 2.95,
+    "semester": 5,
+    "major": "Psikoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": false,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Dr. Burak Kara"
+    },
+    "credits_completed": 150,
+    "credits_required": 240
+  },
+  "u0006": {
+    "name": "Kerem Özdemir",
+    "agno": 3.15,
+    "semester": 4,
+    "major": "Elektrik-Elektronik Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Prof. Dr. Nurten Genç",
+      "cap": "Doç. Dr. Mert Tekin"
+    },
+    "credits_completed": 115,
+    "credits_required": 240
+  },
+  "u0007": {
+    "name": "Deniz Kara",
+    "agno": 2.40,
+    "semester": 1,
+    "major": "Türk Dili ve Edebiyatı",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Ece Soylu"
+    },
+    "credits_completed": 25,
+    "credits_required": 240
+  },
+  "u0008": {
+    "name": "Barış Aksoy",
+    "agno": 3.80,
+    "semester": 7,
+    "major": "Hukuk",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "staj"],
+    "advisor": {
+      "anadal": "Doç. Dr. Cemil Can",
+      "cap": "Prof. Dr. Gamze Erdem"
+    },
+    "credits_completed": 220,
+    "credits_required": 240
+  },
+  "u0009": {
+    "name": "Aslı Güneş",
+    "agno": 2.70,
+    "semester": 3,
+    "major": "Sosyoloji",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Fatih Kaya"
+    },
+    "credits_completed": 80,
+    "credits_required": 240
+  },
+  "u0010": {
+    "name": "Utku Şahin",
+    "agno": 3.30,
+    "semester": 5,
+    "major": "Endüstri Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Burcu Demir",
+      "cap": "Doç. Dr. Selim Yılmaz"
+    },
+    "credits_completed": 140,
+    "credits_required": 240
+  },
+  "u0011": {
+    "name": "İrem Korkmaz",
+    "agno": 2.65,
+    "semester": 2,
+    "major": "İktisat",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Ayşe Deniz"
+    },
+    "credits_completed": 55,
+    "credits_required": 240
+  },
+  "u0012": {
+    "name": "Koray Aydın",
+    "agno": 3.90,
+    "semester": 8,
+    "major": "Yazılım Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "staj"],
+    "advisor": {
+      "anadal": "Doç. Dr. Caner Kaya",
+      "cap": "Prof. Dr. Filiz Öztürk"
+    },
+    "credits_completed": 235,
+    "credits_required": 240
+  },
+  "u0013": {
+    "name": "Gizem Şen",
+    "agno": 2.55,
+    "semester": 4,
+    "major": "Kimya",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Emre Kurt"
+    },
+    "credits_completed": 105,
+    "credits_required": 240
+  },
+  "u0014": {
+    "name": "Ege Yücel",
+    "agno": 3.10,
+    "semester": 6,
+    "major": "Makine Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Prof. Dr. Gülden Sönmez",
+      "cap": "Doç. Dr. Volkan Ekinci"
+    },
+    "credits_completed": 170,
+    "credits_required": 240
+  },
+  "u0015": {
+    "name": "Büşra Çelik",
+    "agno": 2.30,
+    "semester": 1,
+    "major": "Hemşirelik",
+    "has_failed_courses": false,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Pınar Demirtaş"
+    },
+    "credits_completed": 20,
+    "credits_required": 240
+  },
+  "u0016": {
+    "name": "Deniz Toprak",
+    "agno": 3.70,
+    "semester": 5,
+    "major": "Uluslararası İlişkiler",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["cift_anadal", "erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Murat Can",
+      "cap": "Dr. Ayşegül Aksoy"
+    },
+    "credits_completed": 155,
+    "credits_required": 240
+  },
+  "u0017": {
+    "name": "Umut Yavuz",
+    "agno": 2.05,
+    "semester": 3,
+    "major": "Gazetecilik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Doç. Dr. Serkan Pektaş"
+    },
+    "credits_completed": 70,
+    "credits_required": 240
+  },
+  "u0018": {
+    "name": "Melis Koç",
+    "agno": 3.45,
+    "semester": 7,
+    "major": "İç Mimarlık",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "staj"],
+    "advisor": {
+      "anadal": "Dr. Ceren Aktaş",
+      "cap": "Prof. Dr. Tayfun Güler"
+    },
+    "credits_completed": 215,
+    "credits_required": 240
+  },
+  "u0019": {
+    "name": "Doruk Alp",
+    "agno": 2.25,
+    "semester": 4,
+    "major": "Ekonometri",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Prof. Dr. İpek Öztürk"
+    },
+    "credits_completed": 95,
+    "credits_required": 240
+  },
+  "u0020": {
+    "name": "İpek Sarı",
+    "agno": 3.00,
+    "semester": 6,
+    "major": "Şehir ve Bölge Planlama",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Onur Kaya",
+      "cap": "Dr. Meltem Erol"
+    },
+    "credits_completed": 180,
+    "credits_required": 240
+  },
+  "u0021": {
+    "name": "Alper Aslan",
+    "agno": 2.70,
+    "semester": 3,
+    "major": "Halkla İlişkiler",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Dr. Fırat Koç"
+    },
+    "credits_completed": 85,
+    "credits_required": 240
+  },
+  "u0022": {
+    "name": "Eylül Tekin",
+    "agno": 3.50,
+    "semester": 5,
+    "major": "Biyoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Ayşenur Aydın",
+      "cap": "Doç. Dr. Sinan Öztürk"
+    },
+    "credits_completed": 145,
+    "credits_required": 240
+  },
+  "u0023": {
+    "name": "Arda Şahin",
+    "agno": 2.15,
+    "semester": 1,
+    "major": "Beslenme ve Diyetetik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Gamze Mutlu"
+    },
+    "credits_completed": 30,
+    "credits_required": 240
+  },
+  "u0024": {
+    "name": "Cemre Yılmaz",
+    "agno": 3.85,
+    "semester": 8,
+    "major": "Psikoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ayşe Sarı",
+      "cap": "Prof. Dr. Kerem Demir"
+    },
+    "credits_completed": 230,
+    "credits_required": 240
+  },
+  "u0025": {
+    "name": "Deniz Can",
+    "agno": 2.60,
+    "semester": 4,
+    "major": "Tarih",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Dr. Murat Yılmaz"
+    },
+    "credits_completed": 100,
+    "credits_required": 240
+  },
+  "u0026": {
+    "name": "Efe Kaya",
+    "agno": 3.20,
+    "semester": 6,
+    "major": "Bilgisayar Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Prof. Dr. Özlem Tekin",
+      "cap": "Doç. Dr. Alp Can"
+    },
+    "credits_completed": 175,
+    "credits_required": 240
+  },
+  "u0027": {
+    "name": "Zeynep Arslan",
+    "agno": 2.50,
+    "semester": 2,
+    "major": "İktisat",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Burcu Demir"
+    },
+    "credits_completed": 50,
+    "credits_required": 240
+  },
+  "u0028": {
+    "name": "Mert Demir",
+    "agno": 3.70,
+    "semester": 7,
+    "major": "Hukuk",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ahmet Yılmaz",
+      "cap": "Prof. Dr. İrem Kaya"
+    },
+    "credits_completed": 225,
+    "credits_required": 240
+  },
+  "u0029": {
+    "name": "Gizem Şahin",
+    "agno": 2.00,
+    "semester": 3,
+    "major": "Radyo Televizyon ve Sinema",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Ceyda Mert"
+    },
+    "credits_completed": 65,
+    "credits_required": 240
+  },
+  "u0030": {
+    "name": "Emre Can",
+    "agno": 3.35,
+    "semester": 5,
+    "major": "Makine Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Prof. Dr. Cem Yılmaz",
+      "cap": "Doç. Dr. Özge Demir"
+    },
+    "credits_completed": 160,
+    "credits_required": 240
+  },
+  "u0031": {
+    "name": "Esra Polat",
+    "agno": 2.80,
+    "semester": 4,
+    "major": "İşletme",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Murat Aksoy"
+    },
+    "credits_completed": 105,
+    "credits_required": 240
+  },
+  "u0032": {
+    "name": "Berke Aydın",
+    "agno": 3.95,
+    "semester": 8,
+    "major": "Yazılım Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Aslı Demir",
+      "cap": "Prof. Dr. Caner Kaya"
+    },
+    "credits_completed": 238,
+    "credits_required": 240
+  },
+  "u0033": {
+    "name": "Pelin Turan",
+    "agno": 2.45,
+    "semester": 1,
+    "major": "Fizik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Ayşe Gün"
+    },
+    "credits_completed": 15,
+    "credits_required": 240
+  },
+  "u0034": {
+    "name": "Doruk Kurt",
+    "agno": 3.65,
+    "semester": 6,
+    "major": "Kimya Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Burak Kaya",
+      "cap": "Doç. Dr. Elif Öztürk"
+    },
+    "credits_completed": 195,
+    "credits_required": 240
+  },
+  "u0035": {
+    "name": "İlayda Güler",
+    "agno": 2.20,
+    "semester": 2,
+    "major": "Hukuk",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Mehmet Can"
+    },
+    "credits_completed": 35,
+    "credits_required": 240
+  },
+  "u0036": {
+    "name": "Seda Yıldız",
+    "agno": 3.10,
+    "semester": 5,
+    "major": "Psikoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["yandal", "staj"],
+    "advisor": {
+      "anadal": "Doç. Dr. Zeynep Sarı",
+      "cap": "Prof. Dr. Cem Demir"
+    },
+    "credits_completed": 150,
+    "credits_required": 240
+  },
+  "u0037": {
+    "name": "Aras Öztürk",
+    "agno": 2.75,
+    "semester": 3,
+    "major": "Maliye",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Dr. Fatma Koç"
+    },
+    "credits_completed": 80,
+    "credits_required": 240
+  },
+  "u0038": {
+    "name": "Ece Aksoy",
+    "agno": 3.80,
+    "semester": 7,
+    "major": "Elektrik-Elektronik Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Deniz Demir",
+      "cap": "Doç. Dr. Mert Yılmaz"
+    },
+    "credits_completed": 210,
+    "credits_required": 240
+  },
+  "u0039": {
+    "name": "Metehan Kara",
+    "agno": 2.30,
+    "semester": 4,
+    "major": "Tarih",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Pınar Aydın"
+    },
+    "credits_completed": 90,
+    "credits_required": 240
+  },
+  "u0040": {
+    "name": "Lara Demirci",
+    "agno": 3.55,
+    "semester": 6,
+    "major": "Endüstri Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Gökhan Kaya",
+      "cap": "Prof. Dr. İpek Şen"
+    },
+    "credits_completed": 170,
+    "credits_required": 240
+  },
+  "u0041": {
+    "name": "Bora Altan",
+    "agno": 2.65,
+    "semester": 2,
+    "major": "Halkla İlişkiler",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Cemile Aksoy"
+    },
+    "credits_completed": 60,
+    "credits_required": 240
+  },
+  "u0042": {
+    "name": "Aslıhan Yılmaz",
+    "agno": 3.75,
+    "semester": 5,
+    "major": "Hukuk",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Barış Demir",
+      "cap": "Doç. Dr. Sinem Can"
+    },
+    "credits_completed": 165,
+    "credits_required": 240
+  },
+  "u0043": {
+    "name": "Oğuzhan Kaya",
+    "agno": 2.15,
+    "semester": 1,
+    "major": "Beslenme ve Diyetetik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Mert Özkan"
+    },
+    "credits_completed": 20,
+    "credits_required": 240
+  },
+  "u0044": {
+    "name": "Eda Şen",
+    "agno": 3.90,
+    "semester": 8,
+    "major": "Psikoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "staj"],
+    "advisor": {
+      "anadal": "Doç. Dr. Pınar Yılmaz",
+      "cap": "Prof. Dr. Murat Kara"
+    },
+    "credits_completed": 230,
+    "credits_required": 240
+  },
+  "u0045": {
+    "name": "Berk Arslan",
+    "agno": 2.50,
+    "semester": 3,
+    "major": "Sosyoloji",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Burcu Koç"
+    },
+    "credits_completed": 75,
+    "credits_required": 240
+  },
+  "u0046": {
+    "name": "Deniz Güneş",
+    "agno": 3.25,
+    "semester": 4,
+    "major": "Bilgisayar Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["cift_anadal"],
+    "advisor": {
+      "anadal": "Prof. Dr. Alp Tekin",
+      "cap": "Doç. Dr. Eda Demir"
+    },
+    "credits_completed": 110,
+    "credits_required": 240
+  },
+  "u0047": {
+    "name": "Yağmur Akın",
+    "agno": 2.85,
+    "semester": 2,
+    "major": "İnşaat Mühendisliği",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Kerem Aksoy"
+    },
+    "credits_completed": 45,
+    "credits_required": 240
+  },
+  "u0048": {
+    "name": "Cem Şahin",
+    "agno": 3.60,
+    "semester": 6,
+    "major": "Mimarlık",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ayşe Yılmaz",
+      "cap": "Prof. Dr. Can Demir"
+    },
+    "credits_completed": 190,
+    "credits_required": 240
+  },
+  "u0049": {
+    "name": "İlker Toprak",
+    "agno": 2.10,
+    "semester": 3,
+    "major": "Maliye",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Elif Şahin"
+    },
+    "credits_completed": 70,
+    "credits_required": 240
+  },
+  "u0050": {
+    "name": "Başak Kurt",
+    "agno": 3.15,
+    "semester": 5,
+    "major": "İşletme",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Prof. Dr. Cansu Özdemir",
+      "cap": "Doç. Dr. Mert Kara"
+    },
+    "credits_completed": 140,
+    "credits_required": 240
+  },
+  "u0051": {
+    "name": "Ozan Aydın",
+    "agno": 2.40,
+    "semester": 1,
+    "major": "Türk Dili ve Edebiyatı",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Gizem Aydın"
+    },
+    "credits_completed": 25,
+    "credits_required": 240
+  },
+  "u0052": {
+    "name": "Ebru Koç",
+    "agno": 3.80,
+    "semester": 7,
+    "major": "Hukuk",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "staj"],
+    "advisor": {
+      "anadal": "Doç. Dr. Emre Öztürk",
+      "cap": "Prof. Dr. İlayda Demir"
+    },
+    "credits_completed": 220,
+    "credits_required": 240
+  },
+  "u0053": {
+    "name": "Tarık Yaman",
+    "agno": 2.70,
+    "semester": 3,
+    "major": "Sosyoloji",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Utku Can"
+    },
+    "credits_completed": 80,
+    "credits_required": 240
+  },
+  "u0054": {
+    "name": "Buse Tekin",
+    "agno": 3.30,
+    "semester": 5,
+    "major": "Endüstri Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Deniz Alp",
+      "cap": "Doç. Dr. Barış Şen"
+    },
+    "credits_completed": 145,
+    "credits_required": 240
+  },
+  "u0055": {
+    "name": "Fırat Aksoy",
+    "agno": 2.65,
+    "semester": 2,
+    "major": "İktisat",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Melis Akın"
+    },
+    "credits_completed": 55,
+    "credits_required": 240
+  },
+  "u0056": {
+    "name": "Gamze Yılmaz",
+    "agno": 3.90,
+    "semester": 8,
+    "major": "Yazılım Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ege Şahin",
+      "cap": "Prof. Dr. Bora Özcan"
+    },
+    "credits_completed": 235,
+    "credits_required": 240
+  },
+  "u0057": {
+    "name": "Cemre Ergün",
+    "agno": 2.55,
+    "semester": 4,
+    "major": "Kimya",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Selin Yücel"
+    },
+    "credits_completed": 100,
+    "credits_required": 240
+  },
+  "u0058": {
+    "name": "Alperen Sarı",
+    "agno": 3.10,
+    "semester": 6,
+    "major": "Makine Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Prof. Dr. Nazlı Demir",
+      "cap": "Doç. Dr. Serkan Aksoy"
+    },
+    "credits_completed": 170,
+    "credits_required": 240
+  },
+  "u0059": {
+    "name": "Seda Şahin",
+    "agno": 2.30,
+    "semester": 1,
+    "major": "Hemşirelik",
+    "has_failed_courses": false,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Ayşenur Güneş"
+    },
+    "credits_completed": 20,
+    "credits_required": 240
+  },
+  "u0060": {
+    "name": "Emirhan Toprak",
+    "agno": 3.70,
+    "semester": 5,
+    "major": "Uluslararası İlişkiler",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["cift_anadal", "erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Erdem Kaya",
+      "cap": "Dr. Özlem Yılmaz"
+    },
+    "credits_completed": 155,
+    "credits_required": 240
+  },
+  "u0061": {
+    "name": "Nazlı Avcı",
+    "agno": 2.05,
+    "semester": 3,
+    "major": "Gazetecilik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Doç. Dr. Cenk Demir"
+    },
+    "credits_completed": 70,
+    "credits_required": 240
+  },
+  "u0062": {
+    "name": "Ahmet Can",
+    "agno": 3.45,
+    "semester": 7,
+    "major": "İç Mimarlık",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "staj"],
+    "advisor": {
+      "anadal": "Dr. Aslı Aksoy",
+      "cap": "Prof. Dr. Burak Şahin"
+    },
+    "credits_completed": 215,
+    "credits_required": 240
+  },
+  "u0063": {
+    "name": "Elif Tekin",
+    "agno": 2.25,
+    "semester": 4,
+    "major": "Ekonometri",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Prof. Dr. Meltem Eren"
+    },
+    "credits_completed": 95,
+    "credits_required": 240
+  },
+  "u0064": {
+    "name": "Kaan Yılmaz",
+    "agno": 3.00,
+    "semester": 6,
+    "major": "Şehir ve Bölge Planlama",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ozan Kurt",
+      "cap": "Dr. Pınar Demir"
+    },
+    "credits_completed": 180,
+    "credits_required": 240
+  },
+  "u0065": {
+    "name": "Zeynep Özdemir",
+    "agno": 2.70,
+    "semester": 3,
+    "major": "Halkla İlişkiler",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Dr. Eren Aydın"
+    },
+    "credits_completed": 85,
+    "credits_required": 240
+  },
+  "u0066": {
+    "name": "Beril Deniz",
+    "agno": 3.50,
+    "semester": 5,
+    "major": "Biyoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Gökçe Yılmaz",
+      "cap": "Doç. Dr. Serkan Karaca"
+    },
+    "credits_completed": 145,
+    "credits_required": 240
+  },
+  "u0067": {
+    "name": "Cem Şen",
+    "agno": 2.15,
+    "semester": 1,
+    "major": "Beslenme ve Diyetetik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Tuna Mert"
+    },
+    "credits_completed": 30,
+    "credits_required": 240
+  },
+  "u0068": {
+    "name": "Esra Aksoy",
+    "agno": 3.85,
+    "semester": 8,
+    "major": "Psikoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ayşenur Kaya",
+      "cap": "Prof. Dr. Caner Özdemir"
+    },
+    "credits_completed": 230,
+    "credits_required": 240
+  },
+  "u0069": {
+    "name": "Doruk Kaya",
+    "agno": 2.60,
+    "semester": 4,
+    "major": "Tarih",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Dr. Merve Deniz"
+    },
+    "credits_completed": 100,
+    "credits_required": 240
+  },
+  "u0070": {
+    "name": "Ayşe Arslan",
+    "agno": 3.20,
+    "semester": 6,
+    "major": "Bilgisayar Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Prof. Dr. Alp Yılmaz",
+      "cap": "Doç. Dr. Aslı Demir"
+    },
+    "credits_completed": 175,
+    "credits_required": 240
+  },
+  "u0071": {
+    "name": "Ege Mert",
+    "agno": 2.50,
+    "semester": 2,
+    "major": "İktisat",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Burak Can"
+    },
+    "credits_completed": 50,
+    "credits_required": 240
+  },
+  "u0072": {
+    "name": "Pelin Demir",
+    "agno": 3.70,
+    "semester": 7,
+    "major": "Hukuk",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet"],
+    "advisor": {
+      "anadal": "Doç. Dr. Mert Aksoy",
+      "cap": "Prof. Dr. Zeynep Sarı"
+    },
+    "credits_completed": 225,
+    "credits_required": 240
+  },
+  "u0073": {
+    "name": "Tarık Yıldız",
+    "agno": 2.00,
+    "semester": 3,
+    "major": "Radyo Televizyon ve Sinema",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Ceren Toprak"
+    },
+    "credits_completed": 65,
+    "credits_required": 240
+  },
+  "u0074": {
+    "name": "Ceren Aksoy",
+    "agno": 3.35,
+    "semester": 5,
+    "major": "Makine Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Prof. Dr. İpek Avcı",
+      "cap": "Doç. Dr. Fırat Özdemir"
+    },
+    "credits_completed": 160,
+    "credits_required": 240
+  },
+  "u0075": {
+    "name": "Ozan Aydın",
+    "agno": 2.80,
+    "semester": 4,
+    "major": "İşletme",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Gamze Yılmaz"
+    },
+    "credits_completed": 105,
+    "credits_required": 240
+  },
+  "u0076": {
+    "name": "Aslı Gün",
+    "agno": 3.95,
+    "semester": 8,
+    "major": "Yazılım Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Bora Can",
+      "cap": "Prof. Dr. Seda Şahin"
+    },
+    "credits_completed": 238,
+    "credits_required": 240
+  },
+  "u0077": {
+    "name": "Utku Kaya",
+    "agno": 2.45,
+    "semester": 1,
+    "major": "Fizik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Kerem Akın"
+    },
+    "credits_completed": 15,
+    "credits_required": 240
+  },
+  "u0078": {
+    "name": "Ebru Şen",
+    "agno": 3.65,
+    "semester": 6,
+    "major": "Kimya Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Aslı Demir",
+      "cap": "Doç. Dr. Emre Toprak"
+    },
+    "credits_completed": 195,
+    "credits_required": 240
+  },
+  "u0079": {
+    "name": "Furkan Demir",
+    "agno": 2.20,
+    "semester": 2,
+    "major": "Hukuk",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Elif Güneş"
+    },
+    "credits_completed": 35,
+    "credits_required": 240
+  },
+  "u0080": {
+    "name": "Burcu Sarı",
+    "agno": 3.10,
+    "semester": 5,
+    "major": "Psikoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["yandal", "staj"],
+    "advisor": {
+      "anadal": "Doç. Dr. Hakan Yıldız",
+      "cap": "Prof. Dr. İrem Kara"
+    },
+    "credits_completed": 150,
+    "credits_required": 240
+  },
+  "u0081": {
+    "name": "Caner Koç",
+    "agno": 2.75,
+    "semester": 3,
+    "major": "Maliye",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Dr. Nazlı Çelik"
+    },
+    "credits_completed": 80,
+    "credits_required": 240
+  },
+  "u0082": {
+    "name": "Gülfem Yılmaz",
+    "agno": 3.80,
+    "semester": 7,
+    "major": "Elektrik-Elektronik Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Sinan Aydın",
+      "cap": "Doç. Dr. Melis Kaya"
+    },
+    "credits_completed": 210,
+    "credits_required": 240
+  },
+  "u0083": {
+    "name": "Baran Akın",
+    "agno": 2.30,
+    "semester": 4,
+    "major": "Tarih",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Ceren Şahin"
+    },
+    "credits_completed": 90,
+    "credits_required": 240
+  },
+  "u0084": {
+    "name": "Ekin Demir",
+    "agno": 3.55,
+    "semester": 6,
+    "major": "Endüstri Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ufuk Yılmaz",
+      "cap": "Prof. Dr. Hande Şen"
+    },
+    "credits_completed": 170,
+    "credits_required": 240
+  },
+  "u0085": {
+    "name": "Sercan Aslan",
+    "agno": 2.65,
+    "semester": 2,
+    "major": "Halkla İlişkiler",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Gülin Toprak"
+    },
+    "credits_completed": 60,
+    "credits_required": 240
+  },
+  "u0086": {
+    "name": "Gizem Aydın",
+    "agno": 3.75,
+    "semester": 5,
+    "major": "Hukuk",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Deniz Alp",
+      "cap": "Doç. Dr. Mert Kara"
+    },
+    "credits_completed": 165,
+    "credits_required": 240
+  },
+  "u0087": {
+    "name": "Tuna Yılmaz",
+    "agno": 2.15,
+    "semester": 1,
+    "major": "Beslenme ve Diyetetik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Ayşe Can"
+    },
+    "credits_completed": 20,
+    "credits_required": 240
+  },
+  "u0088": {
+    "name": "Burak Özcan",
+    "agno": 3.90,
+    "semester": 8,
+    "major": "Psikoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "staj"],
+    "advisor": {
+      "anadal": "Doç. Dr. Aslı Demir",
+      "cap": "Prof. Dr. Emre Kaya"
+    },
+    "credits_completed": 230,
+    "credits_required": 240
+  },
+  "u0089": {
+    "name": "Cansu Kaya",
+    "agno": 2.50,
+    "semester": 3,
+    "major": "Sosyoloji",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Kerem Yılmaz"
+    },
+    "credits_completed": 75,
+    "credits_required": 240
+  },
+  "u0090": {
+    "name": "Onur Demir",
+    "agno": 3.25,
+    "semester": 4,
+    "major": "Bilgisayar Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["cift_anadal"],
+    "advisor": {
+      "anadal": "Prof. Dr. Filiz Öztürk",
+      "cap": "Doç. Dr. Mert Demir"
+    },
+    "credits_completed": 110,
+    "credits_required": 240
+  },
+  "u0091": {
+    "name": "Yağız Arslan",
+    "agno": 2.85,
+    "semester": 2,
+    "major": "İnşaat Mühendisliği",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Selin Demir"
+    },
+    "credits_completed": 45,
+    "credits_required": 240
+  },
+  "u0092": {
+    "name": "Deniz Güneş",
+    "agno": 3.60,
+    "semester": 6,
+    "major": "Mimarlık",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Doç. Dr. Cansu Özdemir",
+      "cap": "Prof. Dr. Ali Can"
+    },
+    "credits_completed": 190,
+    "credits_required": 240
+  },
+  "u0093": {
+    "name": "Barış Toprak",
+    "agno": 2.10,
+    "semester": 3,
+    "major": "Maliye",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Erdem Sarı"
+    },
+    "credits_completed": 70,
+    "credits_required": 240
+  },
+  "u0094": {
+    "name": "Büşra Yıldız",
+    "agno": 3.15,
+    "semester": 5,
+    "major": "İşletme",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Prof. Dr. İrem Aksoy",
+      "cap": "Doç. Dr. Caner Kaya"
+    },
+    "credits_completed": 140,
+    "credits_required": 240
+  },
+  "u0095": {
+    "name": "Fırat Can",
+    "agno": 2.40,
+    "semester": 1,
+    "major": "Türk Dili ve Edebiyatı",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Ayşe Demir"
+    },
+    "credits_completed": 25,
+    "credits_required": 240
+  },
+  "u0096": {
+    "name": "Merve Şahin",
+    "agno": 3.80,
+    "semester": 7,
+    "major": "Hukuk",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "staj"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ahmet Yılmaz",
+      "cap": "Prof. Dr. Burak Özcan"
+    },
+    "credits_completed": 220,
+    "credits_required": 240
+  },
+  "u0097": {
+    "name": "Koray Kaya",
+    "agno": 2.70,
+    "semester": 3,
+    "major": "Sosyoloji",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Pelin Aydın"
+    },
+    "credits_completed": 80,
+    "credits_required": 240
+  },
+  "u0098": {
+    "name": "Aslı Tekin",
+    "agno": 3.30,
+    "semester": 5,
+    "major": "Endüstri Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Serkan Demir",
+      "cap": "Doç. Dr. Elif Toprak"
+    },
+    "credits_completed": 145,
+    "credits_required": 240
+  },
+  "u0099": {
+    "name": "Oğuzhan Güneş",
+    "agno": 2.65,
+    "semester": 2,
+    "major": "İktisat",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Deniz Akın"
+    },
+    "credits_completed": 55,
+    "credits_required": 240
+  },
+  "u0100": {
+    "name": "Elif Turan",
+    "agno": 3.90,
+    "semester": 8,
+    "major": "Yazılım Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Mert Yılmaz",
+      "cap": "Prof. Dr. Gizem Şen"
+    },
+    "credits_completed": 235,
+    "credits_required": 240
+  },
+  "u0101": {
+    "name": "Caner Demir",
+    "agno": 2.55,
+    "semester": 4,
+    "major": "Kimya",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Fatma Sarı"
+    },
+    "credits_completed": 100,
+    "credits_required": 240
+  },
+  "u0102": {
+    "name": "Aslı Kaya",
+    "agno": 3.10,
+    "semester": 6,
+    "major": "Makine Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Prof. Dr. İpek Aydın",
+      "cap": "Doç. Dr. Can Toprak"
+    },
+    "credits_completed": 170,
+    "credits_required": 240
+  },
+  "u0103": {
+    "name": "Umut Yılmaz",
+    "agno": 2.30,
+    "semester": 1,
+    "major": "Hemşirelik",
+    "has_failed_courses": false,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Pınar Aksoy"
+    },
+    "credits_completed": 20,
+    "credits_required": 240
+  },
+  "u0104": {
+    "name": "Ege Aksoy",
+    "agno": 3.70,
+    "semester": 5,
+    "major": "Uluslararası İlişkiler",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["cift_anadal", "erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Ahmet Can",
+      "cap": "Dr. Zeynep Demir"
+    },
+    "credits_completed": 155,
+    "credits_required": 240
+  },
+  "u0105": {
+    "name": "Defne Mert",
+    "agno": 2.05,
+    "semester": 3,
+    "major": "Gazetecilik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Doç. Dr. Serkan Yılmaz"
+    },
+    "credits_completed": 70,
+    "credits_required": 240
+  },
+  "u0106": {
+    "name": "Cemre Kaya",
+    "agno": 3.45,
+    "semester": 7,
+    "major": "İç Mimarlık",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "staj"],
+    "advisor": {
+      "anadal": "Dr. Ceyda Tekin",
+      "cap": "Prof. Dr. Burak Aslan"
+    },
+    "credits_completed": 215,
+    "credits_required": 240
+  },
+  "u0107": {
+    "name": "İdil Güneş",
+    "agno": 2.25,
+    "semester": 4,
+    "major": "Ekonometri",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Prof. Dr. Mert Öztürk"
+    },
+    "credits_completed": 95,
+    "credits_required": 240
+  },
+  "u0108": {
+    "name": "Arda Kara",
+    "agno": 3.00,
+    "semester": 6,
+    "major": "Şehir ve Bölge Planlama",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ozan Aydın",
+      "cap": "Dr. Pınar Demir"
+    },
+    "credits_completed": 180,
+    "credits_required": 240
+  },
+  "u0109": {
+    "name": "Buse Altan",
+    "agno": 2.70,
+    "semester": 3,
+    "major": "Halkla İlişkiler",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Dr. Fırat Yılmaz"
+    },
+    "credits_completed": 85,
+    "credits_required": 240
+  },
+  "u0110": {
+    "name": "Caner Yıldız",
+    "agno": 3.50,
+    "semester": 5,
+    "major": "Biyoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Ayşenur Can",
+      "cap": "Doç. Dr. Sinan Aksoy"
+    },
+    "credits_completed": 145,
+    "credits_required": 240
+  },
+  "u0111": {
+    "name": "Deniz Demirci",
+    "agno": 2.15,
+    "semester": 1,
+    "major": "Beslenme ve Diyetetik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Gamze Güneş"
+    },
+    "credits_completed": 30,
+    "credits_required": 240
+  },
+  "u0112": {
+    "name": "Emre Erdem",
+    "agno": 3.85,
+    "semester": 8,
+    "major": "Psikoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ayşe Sarı",
+      "cap": "Prof. Dr. Kerem Demir"
+    },
+    "credits_completed": 230,
+    "credits_required": 240
+  },
+  "u0113": {
+    "name": "Gökçe Tunç",
+    "agno": 2.60,
+    "semester": 4,
+    "major": "Tarih",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Dr. Murat Kaya"
+    },
+    "credits_completed": 100,
+    "credits_required": 240
+  },
+  "u0114": {
+    "name": "İpek Sarı",
+    "agno": 3.20,
+    "semester": 6,
+    "major": "Bilgisayar Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Prof. Dr. Özlem Tekin",
+      "cap": "Doç. Dr. Alp Can"
+    },
+    "credits_completed": 175,
+    "credits_required": 240
+  },
+  "u0115": {
+    "name": "Kaan Kara",
+    "agno": 2.50,
+    "semester": 2,
+    "major": "İktisat",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Burcu Demir"
+    },
+    "credits_completed": 50,
+    "credits_required": 240
+  },
+  "u0116": {
+    "name": "Lara Demir",
+    "agno": 3.70,
+    "semester": 7,
+    "major": "Hukuk",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ahmet Yılmaz",
+      "cap": "Prof. Dr. İrem Kaya"
+    },
+    "credits_completed": 225,
+    "credits_required": 240
+  },
+  "u0117": {
+    "name": "Mert Toprak",
+    "agno": 2.00,
+    "semester": 3,
+    "major": "Radyo Televizyon ve Sinema",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Ceyda Mert"
+    },
+    "credits_completed": 65,
+    "credits_required": 240
+  },
+  "u0118": {
+    "name": "Nilsu Can",
+    "agno": 3.35,
+    "semester": 5,
+    "major": "Makine Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Prof. Dr. Cem Yılmaz",
+      "cap": "Doç. Dr. Özge Demir"
+    },
+    "credits_completed": 160,
+    "credits_required": 240
+  },
+  "u0119": {
+    "name": "Ozan Çelik",
+    "agno": 2.80,
+    "semester": 4,
+    "major": "İşletme",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Murat Aksoy"
+    },
+    "credits_completed": 105,
+    "credits_required": 240
+  },
+  "u0120": {
+    "name": "Pelin Aydın",
+    "agno": 3.95,
+    "semester": 8,
+    "major": "Yazılım Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Aslı Demir",
+      "cap": "Prof. Dr. Caner Kaya"
+    },
+    "credits_completed": 238,
+    "credits_required": 240
+  },
+  "u0121": {
+    "name": "Rüya Aksoy",
+    "agno": 2.45,
+    "semester": 1,
+    "major": "Fizik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Ayşe Gün"
+    },
+    "credits_completed": 15,
+    "credits_required": 240
+  },
+  "u0122": {
+    "name": "Sercan Güler",
+    "agno": 3.65,
+    "semester": 6,
+    "major": "Kimya Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Burak Kaya",
+      "cap": "Doç. Dr. Elif Öztürk"
+    },
+    "credits_completed": 195,
+    "credits_required": 240
+  },
+  "u0123": {
+    "name": "Tuna Yılmaz",
+    "agno": 2.20,
+    "semester": 2,
+    "major": "Hukuk",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Mehmet Can"
+    },
+    "credits_completed": 35,
+    "credits_required": 240
+  },
+  "u0124": {
+    "name": "Utku Sarı",
+    "agno": 3.10,
+    "semester": 5,
+    "major": "Psikoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["yandal", "staj"],
+    "advisor": {
+      "anadal": "Doç. Dr. Zeynep Sarı",
+      "cap": "Prof. Dr. Cem Demir"
+    },
+    "credits_completed": 150,
+    "credits_required": 240
+  },
+  "u0125": {
+    "name": "Volkan Koç",
+    "agno": 2.75,
+    "semester": 3,
+    "major": "Maliye",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Dr. Fatma Koç"
+    },
+    "credits_completed": 80,
+    "credits_required": 240
+  },
+  "u0126": {
+    "name": "Yağmur Demir",
+    "agno": 3.80,
+    "semester": 7,
+    "major": "Elektrik-Elektronik Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Deniz Demir",
+      "cap": "Doç. Dr. Mert Yılmaz"
+    },
+    "credits_completed": 210,
+    "credits_required": 240
+  },
+  "u0127": {
+    "name": "Zeynep Akın",
+    "agno": 2.30,
+    "semester": 4,
+    "major": "Tarih",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Pınar Aydın"
+    },
+    "credits_completed": 90,
+    "credits_required": 240
+  },
+  "u0128": {
+    "name": "Alperen Turan",
+    "agno": 3.55,
+    "semester": 6,
+    "major": "Endüstri Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Gökhan Kaya",
+      "cap": "Prof. Dr. İpek Şen"
+    },
+    "credits_completed": 170,
+    "credits_required": 240
+  },
+  "u0129": {
+    "name": "Ayşe Avcı",
+    "agno": 2.65,
+    "semester": 2,
+    "major": "Halkla İlişkiler",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Cemile Aksoy"
+    },
+    "credits_completed": 60,
+    "credits_required": 240
+  },
+  "u0130": {
+    "name": "Barış Yılmaz",
+    "agno": 3.75,
+    "semester": 5,
+    "major": "Hukuk",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Barış Demir",
+      "cap": "Doç. Dr. Sinem Can"
+    },
+    "credits_completed": 165,
+    "credits_required": 240
+  },
+  "u0131": {
+    "name": "Bora Güneş",
+    "agno": 2.15,
+    "semester": 1,
+    "major": "Beslenme ve Diyetetik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Mert Özkan"
+    },
+    "credits_completed": 20,
+    "credits_required": 240
+  },
+  "u0132": {
+    "name": "Ceren Aksoy",
+    "agno": 3.90,
+    "semester": 8,
+    "major": "Psikoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "staj"],
+    "advisor": {
+      "anadal": "Doç. Dr. Pınar Yılmaz",
+      "cap": "Prof. Dr. Murat Kara"
+    },
+    "credits_completed": 230,
+    "credits_required": 240
+  },
+  "u0133": {
+    "name": "Deniz Can",
+    "agno": 2.50,
+    "semester": 3,
+    "major": "Sosyoloji",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Burcu Koç"
+    },
+    "credits_completed": 75,
+    "credits_required": 240
+  },
+  "u0134": {
+    "name": "Efe Demir",
+    "agno": 3.25,
+    "semester": 4,
+    "major": "Bilgisayar Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["cift_anadal"],
+    "advisor": {
+      "anadal": "Prof. Dr. Alp Tekin",
+      "cap": "Doç. Dr. Eda Demir"
+    },
+    "credits_completed": 110,
+    "credits_required": 240
+  },
+  "u0135": {
+    "name": "Elif Aslan",
+    "agno": 2.85,
+    "semester": 2,
+    "major": "İnşaat Mühendisliği",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Kerem Aksoy"
+    },
+    "credits_completed": 45,
+    "credits_required": 240
+  },
+  "u0136": {
+    "name": "Fırat Kaya",
+    "agno": 3.60,
+    "semester": 6,
+    "major": "Mimarlık",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Doç. Dr. Cansu Özdemir",
+      "cap": "Prof. Dr. Ali Can"
+    },
+    "credits_completed": 190,
+    "credits_required": 240
+  },
+  "u0137": {
+    "name": "Gamze Yılmaz",
+    "agno": 2.10,
+    "semester": 3,
+    "major": "Maliye",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Erdem Sarı"
+    },
+    "credits_completed": 70,
+    "credits_required": 240
+  },
+  "u0138": {
+    "name": "Hakan Şahin",
+    "agno": 3.15,
+    "semester": 5,
+    "major": "İşletme",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Prof. Dr. İrem Aksoy",
+      "cap": "Doç. Dr. Caner Kaya"
+    },
+    "credits_completed": 140,
+    "credits_required": 240
+  },
+  "u0139": {
+    "name": "İlayda Güneş",
+    "agno": 2.40,
+    "semester": 1,
+    "major": "Türk Dili ve Edebiyatı",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Ayşe Demir"
+    },
+    "credits_completed": 25,
+    "credits_required": 240
+  },
+  "u0140": {
+    "name": "Koray Toprak",
+    "agno": 3.80,
+    "semester": 7,
+    "major": "Hukuk",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "staj"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ahmet Yılmaz",
+      "cap": "Prof. Dr. Burak Özcan"
+    },
+    "credits_completed": 220,
+    "credits_required": 240
+  },
+  "u0141": {
+    "name": "Meltem Yıldız",
+    "agno": 2.70,
+    "semester": 3,
+    "major": "Sosyoloji",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Pelin Aydın"
+    },
+    "credits_completed": 80,
+    "credits_required": 240
+  },
+  "u0142": {
+    "name": "Nilsu Akın",
+    "agno": 3.30,
+    "semester": 5,
+    "major": "Endüstri Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Serkan Demir",
+      "cap": "Doç. Dr. Elif Toprak"
+    },
+    "credits_completed": 145,
+    "credits_required": 240
+  },
+  "u0143": {
+    "name": "Ozan Demirci",
+    "agno": 2.65,
+    "semester": 2,
+    "major": "İktisat",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Deniz Akın"
+    },
+    "credits_completed": 55,
+    "credits_required": 240
+  },
+  "u0144": {
+    "name": "Pelin Turan",
+    "agno": 3.90,
+    "semester": 8,
+    "major": "Yazılım Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Mert Yılmaz",
+      "cap": "Prof. Dr. Gizem Şen"
+    },
+    "credits_completed": 235,
+    "credits_required": 240
+  },
+  "u0145": {
+    "name": "Rüya Kaya",
+    "agno": 2.55,
+    "semester": 4,
+    "major": "Kimya",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Fatma Sarı"
+    },
+    "credits_completed": 100,
+    "credits_required": 240
+  },
+  "u0146": {
+    "name": "Sercan Yılmaz",
+    "agno": 3.10,
+    "semester": 6,
+    "major": "Makine Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Prof. Dr. İpek Aydın",
+      "cap": "Doç. Dr. Can Toprak"
+    },
+    "credits_completed": 170,
+    "credits_required": 240
+  },
+  "u0147": {
+    "name": "Tuna Aksoy",
+    "agno": 2.30,
+    "semester": 1,
+    "major": "Hemşirelik",
+    "has_failed_courses": false,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Pınar Aksoy"
+    },
+    "credits_completed": 20,
+    "credits_required": 240
+  },
+  "u0148": {
+    "name": "Utku Arslan",
+    "agno": 3.70,
+    "semester": 5,
+    "major": "Uluslararası İlişkiler",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["cift_anadal", "erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Ahmet Can",
+      "cap": "Dr. Zeynep Demir"
+    },
+    "credits_completed": 155,
+    "credits_required": 240
+  },
+  "u0149": {
+    "name": "Volkan Şahin",
+    "agno": 2.05,
+    "semester": 3,
+    "major": "Gazetecilik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Doç. Dr. Serkan Yılmaz"
+    },
+    "credits_completed": 70,
+    "credits_required": 240
+  },
+  "u0150": {
+    "name": "Yağmur Demir",
+    "agno": 3.45,
+    "semester": 7,
+    "major": "İç Mimarlık",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "staj"],
+    "advisor": {
+      "anadal": "Dr. Ceyda Tekin",
+      "cap": "Prof. Dr. Burak Aslan"
+    },
+    "credits_completed": 215,
+    "credits_required": 240
+  },
+  "u0151": {
+    "name": "Zeynep Güneş",
+    "agno": 2.25,
+    "semester": 4,
+    "major": "Ekonometri",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Prof. Dr. Mert Öztürk"
+    },
+    "credits_completed": 95,
+    "credits_required": 240
+  },
+  "u0152": {
+    "name": "Alperen Sarı",
+    "agno": 3.00,
+    "semester": 6,
+    "major": "Şehir ve Bölge Planlama",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ozan Aydın",
+      "cap": "Dr. Pınar Demir"
+    },
+    "credits_completed": 180,
+    "credits_required": 240
+  },
+  "u0153": {
+    "name": "Ayşe Toprak",
+    "agno": 2.70,
+    "semester": 3,
+    "major": "Halkla İlişkiler",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Dr. Eren Aydın"
+    },
+    "credits_completed": 85,
+    "credits_required": 240
+  },
+  "u0154": {
+    "name": "Barış Yıldız",
+    "agno": 3.50,
+    "semester": 5,
+    "major": "Biyoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Gökçe Yılmaz",
+      "cap": "Doç. Dr. Serkan Karaca"
+    },
+    "credits_completed": 145,
+    "credits_required": 240
+  },
+  "u0155": {
+    "name": "Bora Akın",
+    "agno": 2.15,
+    "semester": 1,
+    "major": "Beslenme ve Diyetetik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Tuna Mert"
+    },
+    "credits_completed": 30,
+    "credits_required": 240
+  },
+  "u0156": {
+    "name": "Ceren Aksoy",
+    "agno": 3.85,
+    "semester": 8,
+    "major": "Psikoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ayşenur Kaya",
+      "cap": "Prof. Dr. Caner Özdemir"
+    },
+    "credits_completed": 230,
+    "credits_required": 240
+  },
+  "u0157": {
+    "name": "Deniz Can",
+    "agno": 2.60,
+    "semester": 4,
+    "major": "Tarih",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Dr. Merve Deniz"
+    },
+    "credits_completed": 100,
+    "credits_required": 240
+  },
+  "u0158": {
+    "name": "Efe Kaya",
+    "agno": 3.20,
+    "semester": 6,
+    "major": "Bilgisayar Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Prof. Dr. Alp Yılmaz",
+      "cap": "Doç. Dr. Aslı Demir"
+    },
+    "credits_completed": 175,
+    "credits_required": 240
+  },
+  "u0159": {
+    "name": "Elif Arslan",
+    "agno": 2.50,
+    "semester": 2,
+    "major": "İktisat",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Burak Can"
+    },
+    "credits_completed": 50,
+    "credits_required": 240
+  },
+  "u0160": {
+    "name": "Fırat Demir",
+    "agno": 3.70,
+    "semester": 7,
+    "major": "Hukuk",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet"],
+    "advisor": {
+      "anadal": "Doç. Dr. Mert Aksoy",
+      "cap": "Prof. Dr. Zeynep Sarı"
+    },
+    "credits_completed": 225,
+    "credits_required": 240
+  },
+  "u0161": {
+    "name": "Gamze Şahin",
+    "agno": 2.00,
+    "semester": 3,
+    "major": "Radyo Televizyon ve Sinema",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Ceren Toprak"
+    },
+    "credits_completed": 65,
+    "credits_required": 240
+  },
+  "u0162": {
+    "name": "Hakan Can",
+    "agno": 3.35,
+    "semester": 5,
+    "major": "Makine Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Prof. Dr. İpek Avcı",
+      "cap": "Doç. Dr. Fırat Özdemir"
+    },
+    "credits_completed": 160,
+    "credits_required": 240
+  },
+  "u0163": {
+    "name": "İlayda Polat",
+    "agno": 2.80,
+    "semester": 4,
+    "major": "İşletme",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Gamze Yılmaz"
+    },
+    "credits_completed": 105,
+    "credits_required": 240
+  },
+  "u0164": {
+    "name": "Koray Aydın",
+    "agno": 3.95,
+    "semester": 8,
+    "major": "Yazılım Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Bora Can",
+      "cap": "Prof. Dr. Seda Şahin"
+    },
+    "credits_completed": 238,
+    "credits_required": 240
+  },
+  "u0165": {
+    "name": "Lara Turan",
+    "agno": 2.45,
+    "semester": 1,
+    "major": "Fizik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Kerem Akın"
+    },
+    "credits_completed": 15,
+    "credits_required": 240
+  },
+  "u0166": {
+    "name": "Mert Kurt",
+    "agno": 3.65,
+    "semester": 6,
+    "major": "Kimya Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Aslı Demir",
+      "cap": "Doç. Dr. Emre Toprak"
+    },
+    "credits_completed": 195,
+    "credits_required": 240
+  },
+  "u0167": {
+    "name": "Nazlı Yılmaz",
+    "agno": 2.20,
+    "semester": 2,
+    "major": "Hukuk",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Elif Güneş"
+    },
+    "credits_completed": 35,
+    "credits_required": 240
+  },
+  "u0168": {
+    "name": "Ozan Sarı",
+    "agno": 3.10,
+    "semester": 5,
+    "major": "Psikoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["yandal", "staj"],
+    "advisor": {
+      "anadal": "Doç. Dr. Hakan Yıldız",
+      "cap": "Prof. Dr. İrem Kara"
+    },
+    "credits_completed": 150,
+    "credits_required": 240
+  },
+  "u0169": {
+    "name": "Pelin Koç",
+    "agno": 2.75,
+    "semester": 3,
+    "major": "Maliye",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Dr. Nazlı Çelik"
+    },
+    "credits_completed": 80,
+    "credits_required": 240
+  },
+  "u0170": {
+    "name": "Rüya Demir",
+    "agno": 3.80,
+    "semester": 7,
+    "major": "Elektrik-Elektronik Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Sinan Aydın",
+      "cap": "Doç. Dr. Melis Kaya"
+    },
+    "credits_completed": 210,
+    "credits_required": 240
+  },
+  "u0171": {
+    "name": "Sercan Akın",
+    "agno": 2.30,
+    "semester": 4,
+    "major": "Tarih",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Ceren Şahin"
+    },
+    "credits_completed": 90,
+    "credits_required": 240
+  },
+  "u0172": {
+    "name": "Tuna Yılmaz",
+    "agno": 3.55,
+    "semester": 6,
+    "major": "Endüstri Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ufuk Yılmaz",
+      "cap": "Prof. Dr. Hande Şen"
+    },
+    "credits_completed": 170,
+    "credits_required": 240
+  },
+  "u0173": {
+    "name": "Utku Aslan",
+    "agno": 2.65,
+    "semester": 2,
+    "major": "Halkla İlişkiler",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Gülin Toprak"
+    },
+    "credits_completed": 60,
+    "credits_required": 240
+  },
+  "u0174": {
+    "name": "Volkan Aydın",
+    "agno": 3.75,
+    "semester": 5,
+    "major": "Hukuk",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Deniz Alp",
+      "cap": "Doç. Dr. Mert Kara"
+    },
+    "credits_completed": 165,
+    "credits_required": 240
+  },
+  "u0175": {
+    "name": "Yağmur Aksoy",
+    "agno": 2.15,
+    "semester": 1,
+    "major": "Beslenme ve Diyetetik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Ayşe Can"
+    },
+    "credits_completed": 20,
+    "credits_required": 240
+  },
+  "u0176": {
+    "name": "Zeynep Özcan",
+    "agno": 3.90,
+    "semester": 8,
+    "major": "Psikoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "staj"],
+    "advisor": {
+      "anadal": "Doç. Dr. Aslı Demir",
+      "cap": "Prof. Dr. Emre Kaya"
+    },
+    "credits_completed": 230,
+    "credits_required": 240
+  },
+  "u0177": {
+    "name": "Alperen Kaya",
+    "agno": 2.50,
+    "semester": 3,
+    "major": "Sosyoloji",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Kerem Yılmaz"
+    },
+    "credits_completed": 75,
+    "credits_required": 240
+  },
+  "u0178": {
+    "name": "Ayşe Demir",
+    "agno": 3.25,
+    "semester": 4,
+    "major": "Bilgisayar Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["cift_anadal"],
+    "advisor": {
+      "anadal": "Prof. Dr. Filiz Öztürk",
+      "cap": "Doç. Dr. Mert Demir"
+    },
+    "credits_completed": 110,
+    "credits_required": 240
+  },
+  "u0179": {
+    "name": "Barış Arslan",
+    "agno": 2.85,
+    "semester": 2,
+    "major": "İnşaat Mühendisliği",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Selin Demir"
+    },
+    "credits_completed": 45,
+    "credits_required": 240
+  },
+  "u0180": {
+    "name": "Bora Güneş",
+    "agno": 3.60,
+    "semester": 6,
+    "major": "Mimarlık",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Doç. Dr. Cansu Özdemir",
+      "cap": "Prof. Dr. Ali Can"
+    },
+    "credits_completed": 190,
+    "credits_required": 240
+  },
+  "u0181": {
+    "name": "Cem Şahin",
+    "agno": 2.10,
+    "semester": 3,
+    "major": "Maliye",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Erdem Sarı"
+    },
+    "credits_completed": 70,
+    "credits_required": 240
+  },
+  "u0182": {
+    "name": "Deniz Yıldız",
+    "agno": 3.15,
+    "semester": 5,
+    "major": "İşletme",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Prof. Dr. İrem Aksoy",
+      "cap": "Doç. Dr. Caner Kaya"
+    },
+    "credits_completed": 140,
+    "credits_required": 240
+  },
+  "u0183": {
+    "name": "Efe Can",
+    "agno": 2.40,
+    "semester": 1,
+    "major": "Türk Dili ve Edebiyatı",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Ayşe Demir"
+    },
+    "credits_completed": 25,
+    "credits_required": 240
+  },
+  "u0184": {
+    "name": "Elif Şahin",
+    "agno": 3.80,
+    "semester": 7,
+    "major": "Hukuk",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "staj"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ahmet Yılmaz",
+      "cap": "Prof. Dr. Burak Özcan"
+    },
+    "credits_completed": 220,
+    "credits_required": 240
+  },
+  "u0185": {
+    "name": "Fırat Kaya",
+    "agno": 2.70,
+    "semester": 3,
+    "major": "Sosyoloji",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Pelin Aydın"
+    },
+    "credits_completed": 80,
+    "credits_required": 240
+  },
+  "u0186": {
+    "name": "Gamze Tekin",
+    "agno": 3.30,
+    "semester": 5,
+    "major": "Endüstri Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Serkan Demir",
+      "cap": "Doç. Dr. Elif Toprak"
+    },
+    "credits_completed": 145,
+    "credits_required": 240
+  },
+  "u0187": {
+    "name": "Hakan Akın",
+    "agno": 2.65,
+    "semester": 2,
+    "major": "İktisat",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Deniz Akın"
+    },
+    "credits_completed": 55,
+    "credits_required": 240
+  },
+  "u0188": {
+    "name": "İrem Yılmaz",
+    "agno": 3.90,
+    "semester": 8,
+    "major": "Yazılım Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Mert Yılmaz",
+      "cap": "Prof. Dr. Gizem Şen"
+    },
+    "credits_completed": 235,
+    "credits_required": 240
+  },
+  "u0189": {
+    "name": "Kerem Sarı",
+    "agno": 2.55,
+    "semester": 4,
+    "major": "Kimya",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Fatma Sarı"
+    },
+    "credits_completed": 100,
+    "credits_required": 240
+  },
+  "u0190": {
+    "name": "Lale Demir",
+    "agno": 3.10,
+    "semester": 6,
+    "major": "Makine Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Prof. Dr. İpek Aydın",
+      "cap": "Doç. Dr. Can Toprak"
+    },
+    "credits_completed": 170,
+    "credits_required": 240
+  },
+  "u0191": {
+    "name": "Mert Toprak",
+    "agno": 2.30,
+    "semester": 1,
+    "major": "Hemşirelik",
+    "has_failed_courses": false,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Pınar Aksoy"
+    },
+    "credits_completed": 20,
+    "credits_required": 240
+  },
+  "u0192": {
+    "name": "Nilsu Can",
+    "agno": 3.70,
+    "semester": 5,
+    "major": "Uluslararası İlişkiler",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["cift_anadal", "erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Ahmet Can",
+      "cap": "Dr. Zeynep Demir"
+    },
+    "credits_completed": 155,
+    "credits_required": 240
+  },
+  "u0193": {
+    "name": "Ozan Mert",
+    "agno": 2.05,
+    "semester": 3,
+    "major": "Gazetecilik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Doç. Dr. Serkan Yılmaz"
+    },
+    "credits_completed": 70,
+    "credits_required": 240
+  },
+  "u0194": {
+    "name": "Pelin Kaya",
+    "agno": 3.45,
+    "semester": 7,
+    "major": "İç Mimarlık",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "staj"],
+    "advisor": {
+      "anadal": "Dr. Ceyda Tekin",
+      "cap": "Prof. Dr. Burak Aslan"
+    },
+    "credits_completed": 215,
+    "credits_required": 240
+  },
+  "u0195": {
+    "name": "Rüya Güneş",
+    "agno": 2.25,
+    "semester": 4,
+    "major": "Ekonometri",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Prof. Dr. Mert Öztürk"
+    },
+    "credits_completed": 95,
+    "credits_required": 240
+  },
+  "u0196": {
+    "name": "Sercan Sarı",
+    "agno": 3.00,
+    "semester": 6,
+    "major": "Şehir ve Bölge Planlama",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ozan Aydın",
+      "cap": "Dr. Pınar Demir"
+    },
+    "credits_completed": 180,
+    "credits_required": 240
+  },
+  "u0197": {
+    "name": "Tuna Deniz",
+    "agno": 2.70,
+    "semester": 3,
+    "major": "Halkla İlişkiler",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Dr. Eren Aydın"
+    },
+    "credits_completed": 85,
+    "credits_required": 240
+  },
+  "u0198": {
+    "name": "Utku Yılmaz",
+    "agno": 3.50,
+    "semester": 5,
+    "major": "Biyoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Gökçe Yılmaz",
+      "cap": "Doç. Dr. Serkan Karaca"
+    },
+    "credits_completed": 145,
+    "credits_required": 240
+  },
+  "u0199": {
+    "name": "Volkan Şen",
+    "agno": 2.15,
+    "semester": 1,
+    "major": "Beslenme ve Diyetetik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Tuna Mert"
+    },
+    "credits_completed": 30,
+    "credits_required": 240
+  },
+  "u0200": {
+    "name": "Yağmur Aksoy",
+    "agno": 3.85,
+    "semester": 8,
+    "major": "Psikoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ayşenur Kaya",
+      "cap": "Prof. Dr. Caner Özdemir"
+    },
+    "credits_completed": 230,
+    "credits_required": 240
+  },
+  "u0201": {
+    "name": "Zeynep Aslan",
+    "agno": 2.60,
+    "semester": 4,
+    "major": "Tarih",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Dr. Merve Deniz"
+    },
+    "credits_completed": 100,
+    "credits_required": 240
+  },
+  "u0202": {
+    "name": "Alper Demir",
+    "agno": 3.20,
+    "semester": 6,
+    "major": "Bilgisayar Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Prof. Dr. Alp Yılmaz",
+      "cap": "Doç. Dr. Aslı Demir"
+    },
+    "credits_completed": 175,
+    "credits_required": 240
+  },
+  "u0203": {
+    "name": "Ayşe Arslan",
+    "agno": 2.50,
+    "semester": 2,
+    "major": "İktisat",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Burak Can"
+    },
+    "credits_completed": 50,
+    "credits_required": 240
+  },
+  "u0204": {
+    "name": "Barış Yıldız",
+    "agno": 3.70,
+    "semester": 7,
+    "major": "Hukuk",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet"],
+    "advisor": {
+      "anadal": "Doç. Dr. Mert Aksoy",
+      "cap": "Prof. Dr. Zeynep Sarı"
+    },
+    "credits_completed": 225,
+    "credits_required": 240
+  },
+  "u0205": {
+    "name": "Bora Toprak",
+    "agno": 2.00,
+    "semester": 3,
+    "major": "Radyo Televizyon ve Sinema",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Ceren Toprak"
+    },
+    "credits_completed": 65,
+    "credits_required": 240
+  },
+  "u0206": {
+    "name": "Ceren Çelik",
+    "agno": 3.35,
+    "semester": 5,
+    "major": "Makine Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Prof. Dr. İpek Avcı",
+      "cap": "Doç. Dr. Fırat Özdemir"
+    },
+    "credits_completed": 160,
+    "credits_required": 240
+  },
+  "u0207": {
+    "name": "Deniz Demirci",
+    "agno": 2.80,
+    "semester": 4,
+    "major": "İşletme",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Gamze Yılmaz"
+    },
+    "credits_completed": 105,
+    "credits_required": 240
+  },
+  "u0208": {
+    "name": "Efe Aydın",
+    "agno": 3.95,
+    "semester": 8,
+    "major": "Yazılım Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Bora Can",
+      "cap": "Prof. Dr. Seda Şahin"
+    },
+    "credits_completed": 238,
+    "credits_required": 240
+  },
+  "u0209": {
+    "name": "Elif Tekin",
+    "agno": 2.45,
+    "semester": 1,
+    "major": "Fizik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Kerem Akın"
+    },
+    "credits_completed": 15,
+    "credits_required": 240
+  },
+  "u0210": {
+    "name": "Fırat Güler",
+    "agno": 3.65,
+    "semester": 6,
+    "major": "Kimya Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Aslı Demir",
+      "cap": "Doç. Dr. Emre Toprak"
+    },
+    "credits_completed": 195,
+    "credits_required": 240
+  },
+  "u0211": {
+    "name": "Gamze Demir",
+    "agno": 2.20,
+    "semester": 2,
+    "major": "Hukuk",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Elif Güneş"
+    },
+    "credits_completed": 35,
+    "credits_required": 240
+  },
+  "u0212": {
+    "name": "Hakan Sarı",
+    "agno": 3.10,
+    "semester": 5,
+    "major": "Psikoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["yandal", "staj"],
+    "advisor": {
+      "anadal": "Doç. Dr. Hakan Yıldız",
+      "cap": "Prof. Dr. İrem Kara"
+    },
+    "credits_completed": 150,
+    "credits_required": 240
+  },
+  "u0213": {
+    "name": "İlayda Koç",
+    "agno": 2.75,
+    "semester": 3,
+    "major": "Maliye",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Dr. Nazlı Çelik"
+    },
+    "credits_completed": 80,
+    "credits_required": 240
+  },
+  "u0214": {
+    "name": "Kerem Yılmaz",
+    "agno": 3.80,
+    "semester": 7,
+    "major": "Elektrik-Elektronik Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Sinan Aydın",
+      "cap": "Doç. Dr. Melis Kaya"
+    },
+    "credits_completed": 210,
+    "credits_required": 240
+  },
+  "u0215": {
+    "name": "Lara Akın",
+    "agno": 2.30,
+    "semester": 4,
+    "major": "Tarih",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Ceren Şahin"
+    },
+    "credits_completed": 90,
+    "credits_required": 240
+  },
+  "u0216": {
+    "name": "Mert Turan",
+    "agno": 3.55,
+    "semester": 6,
+    "major": "Endüstri Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ufuk Yılmaz",
+      "cap": "Prof. Dr. Hande Şen"
+    },
+    "credits_completed": 170,
+    "credits_required": 240
+  },
+  "u0217": {
+    "name": "Nazlı Avcı",
+    "agno": 2.65,
+    "semester": 2,
+    "major": "Halkla İlişkiler",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Gülin Toprak"
+    },
+    "credits_completed": 60,
+    "credits_required": 240
+  },
+  "u0218": {
+    "name": "Ozan Aydın",
+    "agno": 3.75,
+    "semester": 5,
+    "major": "Hukuk",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Deniz Alp",
+      "cap": "Doç. Dr. Mert Kara"
+    },
+    "credits_completed": 165,
+    "credits_required": 240
+  },
+  "u0219": {
+    "name": "Pelin Yılmaz",
+    "agno": 2.15,
+    "semester": 1,
+    "major": "Beslenme ve Diyetetik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Ayşe Can"
+    },
+    "credits_completed": 20,
+    "credits_required": 240
+  },
+  "u0220": {
+    "name": "Rüya Özcan",
+    "agno": 3.90,
+    "semester": 8,
+    "major": "Psikoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "staj"],
+    "advisor": {
+      "anadal": "Doç. Dr. Aslı Demir",
+      "cap": "Prof. Dr. Emre Kaya"
+    },
+    "credits_completed": 230,
+    "credits_required": 240
+  },
+  "u0221": {
+    "name": "Sercan Kaya",
+    "agno": 2.50,
+    "semester": 3,
+    "major": "Sosyoloji",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Kerem Yılmaz"
+    },
+    "credits_completed": 75,
+    "credits_required": 240
+  },
+  "u0222": {
+    "name": "Tuna Demir",
+    "agno": 3.25,
+    "semester": 4,
+    "major": "Bilgisayar Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["cift_anadal"],
+    "advisor": {
+      "anadal": "Prof. Dr. Filiz Öztürk",
+      "cap": "Doç. Dr. Mert Demir"
+    },
+    "credits_completed": 110,
+    "credits_required": 240
+  },
+  "u0223": {
+    "name": "Utku Arslan",
+    "agno": 2.85,
+    "semester": 2,
+    "major": "İnşaat Mühendisliği",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Selin Demir"
+    },
+    "credits_completed": 45,
+    "credits_required": 240
+  },
+  "u0224": {
+    "name": "Volkan Güneş",
+    "agno": 3.60,
+    "semester": 6,
+    "major": "Mimarlık",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Doç. Dr. Cansu Özdemir",
+      "cap": "Prof. Dr. Ali Can"
+    },
+    "credits_completed": 190,
+    "credits_required": 240
+  },
+  "u0225": {
+    "name": "Yağmur Toprak",
+    "agno": 2.10,
+    "semester": 3,
+    "major": "Maliye",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Erdem Sarı"
+    },
+    "credits_completed": 70,
+    "credits_required": 240
+  },
+  "u0226": {
+    "name": "Zeynep Yıldız",
+    "agno": 3.15,
+    "semester": 5,
+    "major": "İşletme",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Prof. Dr. İrem Aksoy",
+      "cap": "Doç. Dr. Caner Kaya"
+    },
+    "credits_completed": 140,
+    "credits_required": 240
+  },
+  "u0227": {
+    "name": "Alperen Can",
+    "agno": 2.40,
+    "semester": 1,
+    "major": "Türk Dili ve Edebiyatı",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Ayşe Demir"
+    },
+    "credits_completed": 25,
+    "credits_required": 240
+  },
+  "u0228": {
+    "name": "Ayşe Şahin",
+    "agno": 3.80,
+    "semester": 7,
+    "major": "Hukuk",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "staj"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ahmet Yılmaz",
+      "cap": "Prof. Dr. Burak Özcan"
+    },
+    "credits_completed": 220,
+    "credits_required": 240
+  },
+  "u0229": {
+    "name": "Barış Kaya",
+    "agno": 2.70,
+    "semester": 3,
+    "major": "Sosyoloji",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Pelin Aydın"
+    },
+    "credits_completed": 80,
+    "credits_required": 240
+  },
+  "u0230": {
+    "name": "Bora Tekin",
+    "agno": 3.30,
+    "semester": 5,
+    "major": "Endüstri Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Serkan Demir",
+      "cap": "Doç. Dr. Elif Toprak"
+    },
+    "credits_completed": 145,
+    "credits_required": 240
+  },
+  "u0231": {
+    "name": "Cem Akın",
+    "agno": 2.65,
+    "semester": 2,
+    "major": "İktisat",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Dr. Deniz Akın"
+    },
+    "credits_completed": 55,
+    "credits_required": 240
+  },
+  "u0232": {
+    "name": "Deniz Yılmaz",
+    "agno": 3.90,
+    "semester": 8,
+    "major": "Yazılım Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Mert Yılmaz",
+      "cap": "Prof. Dr. Gizem Şen"
+    },
+    "credits_completed": 235,
+    "credits_required": 240
+  },
+  "u0233": {
+    "name": "Efe Sarı",
+    "agno": 2.55,
+    "semester": 4,
+    "major": "Kimya",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Fatma Sarı"
+    },
+    "credits_completed": 100,
+    "credits_required": 240
+  },
+  "u0234": {
+    "name": "Elif Demir",
+    "agno": 3.10,
+    "semester": 6,
+    "major": "Makine Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Prof. Dr. İpek Aydın",
+      "cap": "Doç. Dr. Can Toprak"
+    },
+    "credits_completed": 170,
+    "credits_required": 240
+  },
+  "u0235": {
+    "name": "Fırat Toprak",
+    "agno": 2.30,
+    "semester": 1,
+    "major": "Hemşirelik",
+    "has_failed_courses": false,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Pınar Aksoy"
+    },
+    "credits_completed": 20,
+    "credits_required": 240
+  },
+  "u0236": {
+    "name": "Gamze Can",
+    "agno": 3.70,
+    "semester": 5,
+    "major": "Uluslararası İlişkiler",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["cift_anadal", "erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Ahmet Can",
+      "cap": "Dr. Zeynep Demir"
+    },
+    "credits_completed": 155,
+    "credits_required": 240
+  },
+  "u0237": {
+    "name": "Hakan Mert",
+    "agno": 2.05,
+    "semester": 3,
+    "major": "Gazetecilik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Doç. Dr. Serkan Yılmaz"
+    },
+    "credits_completed": 70,
+    "credits_required": 240
+  },
+  "u0238": {
+    "name": "İlayda Kaya",
+    "agno": 3.45,
+    "semester": 7,
+    "major": "İç Mimarlık",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "staj"],
+    "advisor": {
+      "anadal": "Dr. Ceyda Tekin",
+      "cap": "Prof. Dr. Burak Aslan"
+    },
+    "credits_completed": 215,
+    "credits_required": 240
+  },
+  "u0239": {
+    "name": "Kerem Güneş",
+    "agno": 2.25,
+    "semester": 4,
+    "major": "Ekonometri",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Prof. Dr. Mert Öztürk"
+    },
+    "credits_completed": 95,
+    "credits_required": 240
+  },
+  "u0240": {
+    "name": "Lara Sarı",
+    "agno": 3.00,
+    "semester": 6,
+    "major": "Şehir ve Bölge Planlama",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ozan Aydın",
+      "cap": "Dr. Pınar Demir"
+    },
+    "credits_completed": 180,
+    "credits_required": 240
+  },
+  "u0241": {
+    "name": "Mert Demirci",
+    "agno": 2.70,
+    "semester": 3,
+    "major": "Halkla İlişkiler",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Dr. Eren Aydın"
+    },
+    "credits_completed": 85,
+    "credits_required": 240
+  },
+  "u0242": {
+    "name": "Nazlı Yılmaz",
+    "agno": 3.50,
+    "semester": 5,
+    "major": "Biyoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["erasmus"],
+    "advisor": {
+      "anadal": "Prof. Dr. Gökçe Yılmaz",
+      "cap": "Doç. Dr. Serkan Karaca"
+    },
+    "credits_completed": 145,
+    "credits_required": 240
+  },
+  "u0243": {
+    "name": "Ozan Şen",
+    "agno": 2.15,
+    "semester": 1,
+    "major": "Beslenme ve Diyetetik",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Tuna Mert"
+    },
+    "credits_completed": 30,
+    "credits_required": 240
+  },
+  "u0244": {
+    "name": "Pelin Aksoy",
+    "agno": 3.85,
+    "semester": 8,
+    "major": "Psikoloji",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet", "cift_anadal"],
+    "advisor": {
+      "anadal": "Doç. Dr. Ayşenur Kaya",
+      "cap": "Prof. Dr. Caner Özdemir"
+    },
+    "credits_completed": 230,
+    "credits_required": 240
+  },
+  "u0245": {
+    "name": "Rüya Can",
+    "agno": 2.60,
+    "semester": 4,
+    "major": "Tarih",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Dr. Merve Deniz"
+    },
+    "credits_completed": 100,
+    "credits_required": 240
+  },
+  "u0246": {
+    "name": "Sercan Kaya",
+    "agno": 3.20,
+    "semester": 6,
+    "major": "Bilgisayar Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["yandal"],
+    "advisor": {
+      "anadal": "Prof. Dr. Alp Yılmaz",
+      "cap": "Doç. Dr. Aslı Demir"
+    },
+    "credits_completed": 175,
+    "credits_required": 240
+  },
+  "u0247": {
+    "name": "Tuna Arslan",
+    "agno": 2.50,
+    "semester": 2,
+    "major": "İktisat",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Burak Can"
+    },
+    "credits_completed": 50,
+    "credits_required": 240
+  },
+  "u0248": {
+    "name": "Utku Demir",
+    "agno": 3.70,
+    "semester": 7,
+    "major": "Hukuk",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["mezuniyet"],
+    "advisor": {
+      "anadal": "Doç. Dr. Mert Aksoy",
+      "cap": "Prof. Dr. Zeynep Sarı"
+    },
+    "credits_completed": 225,
+    "credits_required": 240
+  },
+  "u0249": {
+    "name": "Volkan Şahin",
+    "agno": 2.00,
+    "semester": 3,
+    "major": "Radyo Televizyon ve Sinema",
+    "has_failed_courses": true,
+    "eligible_for_cap": false,
+    "applied_programs": [],
+    "advisor": {
+      "anadal": "Dr. Ceren Toprak"
+    },
+    "credits_completed": 65,
+    "credits_required": 240
+  },
+  "u0250": {
+    "name": "Yağmur Çelik",
+    "agno": 3.35,
+    "semester": 5,
+    "major": "Makine Mühendisliği",
+    "has_failed_courses": false,
+    "eligible_for_cap": true,
+    "applied_programs": ["staj"],
+    "advisor": {
+      "anadal": "Prof. Dr. İpek Avcı",
+      "cap": "Doç. Dr. Fırat Özdemir"
+    },
+    "credits_completed": 160,
+    "credits_required": 240
+  }
+}

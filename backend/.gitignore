@@ -1,0 +1,18 @@
+# Python venv
+.venv/
+venv/
+
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Editor
+.idea/
+.vscode/
+*.sublime*
+
+# Environment config
+.env
+
+# Logs
+*.log

@@ -1,0 +1,52 @@
+.typing-bubble {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background-color: #fdf6e3; /* krem */
+  color: #003366; /* koyu mavi */
+  padding: 1rem;
+  border-radius: 1rem;
+  max-width: 24rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  font-size: 0.875rem;
+  position: relative;
+  animation: pulse 2s infinite;
+}
+
+.typing-text {
+  color: #003366;
+}
+
+.typing-dot {
+  width: 0.5rem;
+  height: 0.5rem;
+  background-color: #003366;
+  border-radius: 50%;
+  animation: bounce 0.6s infinite;
+}
+
+.dot2 {
+  animation-delay: 0.15s;
+}
+
+.dot3 {
+  animation-delay: 0.3s;
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
